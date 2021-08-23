@@ -4,7 +4,7 @@
     padding: 0;
 }
 body{
-    background: linear-gradient(rgba(15, 15, 243, 0.4), rgba(15, 15, 243, 0.4)), url('./image/background.jpeg');
+    background: linear-gradient(rgba(15, 15, 243, 0.4), rgba(15, 15, 243, 0.4)), url('background.jpeg');
 }
 .container{
     width: 80%;
@@ -14,7 +14,7 @@ body{
     width: 50%;
     max-height: 800px;
     float: left;
-    background: linear-gradient(rgba(84, 84, 236, 0.4), rgba(97, 97, 238, 0.4)), url('./image/back.jpeg');
+    background: linear-gradient(rgba(84, 84, 236, 0.4), rgba(97, 97, 238, 0.4)), url('back.jpeg');
     background-repeat: repeat;
 }
 .cont-1{
